@@ -1,0 +1,15 @@
+current directory: /Users/oliverkelly/my_first_rails_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/oliverkelly/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/oliverkelly/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20191230-96756-kn2rw3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/oliverkelly/my_first_rails_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/oliverkelly/my_first_rails_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/oliverkelly/my_first_rails_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20191230-96756-u3ugq/bootsnap
